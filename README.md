@@ -9,12 +9,13 @@
 - 🌐 Experienced in Full Stack Web Development with Next.js, React.js, TypeScript, and more.
 - 💡 Participated in hackathons and coding challenges (ACM CodeSprint 2024, Flikkart Grid 6.0)
 - 🚀 Top 6.9% of Leetcoders solving problems for 50+ days in 2024.
+- 🚀 Top 4.2% of Leetcoders solving problems for 100+ days in 2024.
 - 🔧 Building innovative solutions using modern technologies like WebSockets, Blockchain, Machine Learning, etc.
   
 ---
 
 ### **Socials:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/tejas-dherange) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/tejas-dherange-54a6a627b) 
 [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey)](https://github.com/Tejas-Dherange)
 
 ---
