@@ -5,7 +5,7 @@
 
 **Full Stack Developer (Web Development | DSA | Next.js | Typescript | Problem Solving)**
 
-- 📚 Currently pursuing B.Tech (Information Technology), 2026
+- 📚 Currently pursuing B.Tech (Computer Engineering), 2027
 - 🌐 Experienced in Full Stack Web Development with Next.js, React.js, TypeScript, and more.
 - 💡 Participated in hackathons and coding challenges (ACM CodeSprint 2024, Flikkart Grid 6.0)
 - 🚀 Top 6.9% of Leetcoders solving problems for 50+ days in 2024.
