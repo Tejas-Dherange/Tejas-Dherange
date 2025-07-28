@@ -1,18 +1,45 @@
-# About Me:
-👋 Hi, My name is Tejas Dherange, Welcome to my profile
+# 👋 Hi, I'm Tejas Dherange
+
+Welcome to my GitHub profile!
 
 ---
 
-**Full Stack Developer (Web Development | DSA | Next.js | Typescript | Problem Solving)**
+### 💻 Full Stack Developer | Problem Solver | Tech Explorer
 
-- 📚 Currently pursuing B.Tech (Computer Engineering), 2027
-- 🌐 Experienced in Full Stack Web Development with Next.js, React.js, TypeScript, and more.
-- 💡 Participated in hackathons and coding challenges (ACM CodeSprint 2024, Flipkart Grid 6.0)
-- 🚀 Top 6.9% of Leetcoders solving problems for 50+ days in 2024.
-- 🚀 Top 4.2% of Leetcoders solving problems for 100+ days in 2024.
-- 🔧 Building innovative solutions using modern technologies like WebSockets, Blockchain, Machine Learning, etc.
-  
+- 🎓 Pursuing B.Tech in Computer Engineering (Graduating 2027)
+- 🌐 Skilled in building full-stack applications using **Next.js**, **React**, **TypeScript**, **Node.js**, and **MongoDB**
+- ⚡ Focused on real-world solutions using **WebSockets**, **Blockchain**, **LangChain**, **ML**, and **AI integrations (Gemini / OpenAI)**
+- 🧠 Passionate about **DSA**, with consistent problem solving on platforms like LeetCode  
+  - 🏆 **Top 6.9%** for 50+ days  
+  - 🏆 **Top 4.2%** for 100+ days in 2024
+- 🏁 Participated in major hackathons like **Flipkart Grid 6.0** and **ACM CodeSprint 2024**
+- 🛠️ Built projects like:
+  - 🧱 [**Codeloom**](https://www.codeloom.software): LeetCode-like DSA platform with real-time contests
+  - 🌾 SmartShetkari: AI-powered assistant for farmers
+  - 🤖 BinoGPT: Gemini-powered WhatsApp-style AI assistant
+
 ---
+
+### 🚀 What I’m Looking For
+
+I'm looking to contribute to a team that values:
+- Fast, product-driven development
+- Ownership of ideas from concept to deployment
+- Real-world impact through scalable software
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [Portfolio Website](https://tejas-portfolio.codeloom.software)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tejas-dherange-54a6a627b)
+- 🧠 [LeetCode](https://leetcode.com/u/Tejas_Dherange)
+- 🧑‍💻 [Blogs](https://javascript11.hashnode.dev/)
+
+---
+
+> “I don't just build code — I build things people use.”  
+
 
 ### **Socials:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/tejas-dherange-54a6a627b) 
@@ -33,6 +60,13 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain)
+![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
 
 ---
 
