@@ -72,8 +72,6 @@
 
 ### 🏆 Achievements & Certifications  
 
-- 🥇 **Runner-Up – Tech Hustlers Hackathon 2025**  
-- 🎓 **Web Development** & **GenAI with JS** by *Hitesh Choudhary (ChaiCode)*  
 - 🧠 **LeetCode:** 270+ problems | Max Rating: **1484**  
 - 💬 Blog Writer on [Hashnode](https://javascript11.hashnode.dev)  
 
@@ -124,8 +122,9 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Tejas-Dherange/Tejas-Dherange/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Tejas-Dherange/Tejas-Dherange/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 
 ---
