@@ -73,7 +73,8 @@
 ### 🏆 Achievements & Certifications  
 
 - 🧠 **LeetCode:** 270+ problems | Max Rating: **1484**  
-- 💬 Blog Writer on [Hashnode](https://javascript11.hashnode.dev)  
+- 💬 Blog Writer on [Hashnode](https://javascript11.hashnode.dev)
+- Open Source [![An image of @tejasdherange's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejasdherange)](https://holopin.io/@tejasdherange)
 
 ---
 
