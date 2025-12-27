@@ -11,9 +11,9 @@
 - 💡 Passionate about building **AI-driven, scalable, and impactful web applications**  
 - 🌐 Experienced with **Next.js**, **React**, **Node.js**, **TypeScript**, **MongoDB**, and **PostgreSQL**  
 - ⚙️ Exploring **LangChain**, **LangGraph**, **Gemini**, **RAG**, and **Blockchain** integrations  
-- 🧠 DSA Learner — **270+ problems** solved on LeetCode (Max Rating: 1484)  
-- 🚀 Hackathon Lover — **Runner-Up at Tech Hustlers Hackathon 2025** for building an AI-powered **DSA Discord Bot**  
-- 💬 I believe: “I don’t just build code — I build products people love to use.”  
+- 🧠 DSA Learner - **291+ problems** solved on LeetCode (Max Rating: 1509)  
+- 🚀 Hackathon Lover - **Runner-Up at Tech Hustlers Hackathon 2025** for building an AI-powered **DSA Discord Bot**  
+- 💬 I believe: “I don’t just build code - I build products people love to use.”  
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 🧩 Experience  
 
-#### 💼 **RAG Development Intern @ Forbes Marshall (July 2025)**  
+#### 💼 **RAG Development  @ Forbes Marshall (July 2025)**  
 - Built a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** for product query resolution  
 - Integrated **Qdrant Vector Store** and optimized embeddings for faster semantic search  
 - Developed a **React-based chat UI** supporting Excel uploads and real-time query interaction  
