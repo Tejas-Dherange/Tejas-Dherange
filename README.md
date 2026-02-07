@@ -1,144 +1,160 @@
-<h1 align="center"> Hey there, I'm <span style="color:#00BFFF;">Tejas Dherange</span></h1>
+<h1 align="center">Hey there, I'm <span style="color:#00BFFF;">Tejas Dherange</span></h1>
 
 <p align="center">
-  <em>Full Stack Developer • GenAI / RAG Engineer • Problem Solver</em>  
+  <em>Backend-Focused Full Stack Developer • GenAI / RAG Engineer • Problem Solver</em>
 </p>
 
 ---
 
-### About Me  
-- 🎓 **B.Tech in Computer Engineering (2023–2027)** at **Vishwakarma Institute of Information Technology**, Pune  
-- 💡 Passionate about building **scalable, system-driven, AI-powered web products**  
-- 🌐 Experienced with **Next.js**, **React**, **Node.js**, **TypeScript**, **MongoDB**, **PostgreSQL**, **Redis**  
-- ⚙️ Hands-on with **LangChain**, **RAG**, **Qdrant**, **Gemini**, **Agent SDK**  
-- 🧠 DSA Practitioner — **298+ problems solved** on LeetCode  
-  **Max Rating:** 1541  
-- 🚀 **Runner-Up – Tech Hustlers Hackathon 2025**  
-  Built an **AI-powered DSA Discord Bot** using Agent SDK  
-- 💬 I believe: *“I don’t just write code — I design systems and build products.”*
+## About Me  
+
+- B.Tech in Computer Engineering (2023–2027)  
+  **BRACT’s Vishwakarma Institute of Information Technology, Pune** | CGPA: **8.77**
+- Interested in building **scalable backend systems** and **AI-powered web applications**
+- Hands-on experience with **Next.js, React, Node.js, Express, REST APIs**
+- Worked with **LangChain.js, RAG pipelines, Qdrant, Gemini, Agent SDK**
+- Strong foundation in **OOPS, DBMS, Computer Networks, Data Structures & Algorithms**
+- Solved **300+ DSA problems** on LeetCode  
+  **Max Rating:** 1541
+- **Runner-Up – Tech Hustlers Hackathon 2025**  
+  Built an AI-powered DSA Discord Bot using Agent SDK
+- I focus on **designing systems and shipping reliable products**
 
 ---
 
-### ⚡ Tech Stack  
+## Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,prisma,docker,aws,redis,git,github,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,tailwind,prisma,docker,aws,git,github,vercel&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-LangChain-000?style=for-the-badge&logo=langchain" />
+  <img src="https://img.shields.io/badge/-LangChain-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-RAG-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Qdrant-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
----
-
-###  Experience  
-
-####  **RAG Developer @ Forbes Marshall (MNC, Pune)**  
-**July 2025 – Nov 2025**
-
-- Built a **production-grade Retrieval-Augmented Generation (RAG) pipeline** using **LangChain + LLMs**
-- Integrated **Qdrant Vector Store** with custom embeddings for high-accuracy semantic retrieval
-- Optimized chunking & retrieval for **large Excel datasets (15k+ rows)**
-- Developed a **React-based chat interface** with file uploads & real-time Q&A
-- Improved response relevance by **~40%** using prompt engineering & context injection
-- Designed structured frontend rendering (**table, chart, text views**) for better clarity
+**Core CS:** OOPS, Data Structures & Algorithms, DBMS, Computer Networks
 
 ---
 
-###  Projects  
+## Experience  
 
-#### 🧱 **Codeloom**  
-🔗 https://www.codeloom.software  
-*A LeetCode-like DSA platform with real-time contests*
+### Backend Developer Intern - EnrollEngineer  
+**Oct 2025 – Jan 2026**
 
-- Built using **Next.js**, **WebSockets**, **Redis**, **PostgreSQL**, **Judge0**
-- Designed a **rate-limited code execution pipeline** using **Redis + BullMQ**
-- Implemented **real-time submissions & leaderboards**
+- Developed a role-based community management platform with secure approval workflows
+- Designed and implemented RESTful APIs for announcements, mentor–student messaging, and user management
+- Owned database schema design, migrations, and backend infrastructure
+- Deployed services using **AWS EC2, AWS S3, Vercel**, and integrated **Resend** for transactional emails
+- Focused on scalability, API reliability, and clean backend architecture
+
+---
+
+## Projects  
+
+### Codeloom  
+https://www.codeloom.software  
+
+- Pattern-driven DSA and live contest platform
+- Built a rate-limited code execution pipeline using **Judge0 + Redis (BullMQ)**
+- Implemented real-time submissions and leaderboards using **WebSockets**
 - Integrated **Razorpay subscriptions** with plan-based access control
-- Backend powered by **Prisma**, **BullMQ**, and scalable queue architecture
+- Backend powered by **PostgreSQL, Prisma, Redis**, and queue-based architecture
 
 ---
 
-#### 🌾 **SmartShetkari**  
-🔗 https://github.com/Tejas-Dherange/Agri_Connect  
-*AI-powered assistant for farmers*
+### SmartShetkari  
+https://github.com/Tejas-Dherange/Agri_Connect  
 
-- Implemented **crop yield prediction** using **TensorFlow**
-- Integrated **Gemini API** for multilingual voice & text interaction
-- Combined **weather, soil, and market APIs** for data-driven decisions
-- Built a mobile-first, farmer-friendly experience using **Next.js**
-
----
-
-#### 🖼️ **VibeThumb**  
-🔗 https://vibethumb.codeloom.software  
-*AI Thumbnail Generator*
-
-- Generates thumbnails from **text & image prompts**
-- Uses **NAPI-RS/Image** (Sharp alternative) for ultra-fast processing
-- Integrated **Gemini + Nano Banana** for creative AI workflows
+- AI-driven farming assistance platform
+- Implemented crop yield prediction and image-based insights
+- Integrated weather, soil, and market APIs for data-driven decisions
+- Enabled multilingual voice and text support using Gemini API
 
 ---
 
-#### 🎨 **AI UI Designer**  
-🔗 https://github.com/Tejas-Dherange/UI-Designer  
-*Real-time collaborative UI design tool*
+### VibeThumb  
+https://vibethumb.codeloom.software  
 
-- Built with **Next.js**, **Clerk**, **Socket.io**, **Gemini API**
-- Drag-and-drop UI designer with **AI-powered component generation**
-- Multi-user collaboration with live preview & project management
-
----
-
-###  Achievements & Certifications  
-
-- 🧠 **LeetCode:** 298+ problems | Max Rating: **1541**
-- 🏆 **Runner-Up – Tech Hustlers Hackathon 2025**
-- 📜 **ChaiCode – Web Development** (Hitesh Choudhary)
-- 📜 **ChaiCode – GenAI with JavaScript**
-- 🌍 **Open Source Contributor – Hacktoberfest 2025 (4 PRs merged)**
-- ✍️ Blog Writer on [Hashnode](https://javascript11.hashnode.dev)
-
-[![Holopin Badges](https://holopin.me/tejasdherange)](https://holopin.io/@tejasdherange)
+- AI-powered thumbnail generation from text and image prompts
+- Integrated Gemini and Nano Banana for creative workflows
+- Used **NAPI-RS/Image** for optimized image processing
+- Built scalable backend APIs for faster generation
 
 ---
 
-### 📚 Blogs  
+### AI UI Designer  
+https://github.com/Tejas-Dherange/UI-Designer  
 
-- 🔹 [Power of Polyfills: Writing Cross Browser JavaScript Code](https://javascript11.hashnode.dev/the-power-of-polyfills-writing-cross-browser-javascript-code)  
-- 🔹 [JS Engine: High-Level & Low-Level Design](https://javascript11.hashnode.dev/javascript-under-the-hood-high-level-and-low-level-design-of-the-js-engine)  
+- Real-time collaborative UI design tool
+- Built using **Next.js, Clerk, Socket.io**
+- Implemented AI-assisted component generation using Gemini API
+- Supported live collaboration, preview, and project management
 
 ---
 
-### 🏛️ Leadership  
+## Achievements & Certifications  
+
+- LeetCode: 300+ problems solved | Max Rating: **1541**
+- Runner-Up – Tech Hustlers Hackathon 2025
+- ChaiCode – Web Development (Hitesh Choudhary)
+- ChaiCode – GenAI with JavaScript
+- Open Source Contributor – Hacktoberfest 2025 (4 PRs merged)
+- Selected Open Source Contributor – WallGodds (WOC 5.0)
+
+---
+
+## Leadership  
 
 **Treasurer – ACM Student Chapter, VIT Pune (Aug 2024 – Present)**  
 
-- Organized **CodeSprint (500+ participants)** and other large-scale events
-- Managed sponsorships, operations, and execution
-- Improved community engagement and event participation significantly
+- Led execution of CodeSprint 2.0, mock interviews, and technical events
+- Coordinated and managed a 33-member team across operations and logistics
+- Handled end-to-end execution in the absence of the ACM VIT President
+- Contributed to large-scale events with 400+ participants
+- 
+**  ChaiCode Campus Ambassador | ChaiCode (Nov 2025 - Present) **  
+- Organized 2 technical events (CodeSprint 2.0,etc) with 400+ participants, improving student engagement and outreach
+ 
+---
+
+## Blogs  
+
+- Power of Polyfills: Writing Cross Browser JavaScript Code  
+  https://javascript11.hashnode.dev/the-power-of-polyfills-writing-cross-browser-javascript-code
+- JavaScript Engine: High-Level & Low-Level Design  
+  https://javascript11.hashnode.dev/javascript-under-the-hood-high-level-and-low-level-design-of-the-js-engine
 
 ---
 
-### 🌐 Connect With Me  
+## Connect With Me  
 
 <p align="center">
-  <a href="https://tejas-portfolio.codeloom.software"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tejas-dherange-54a6a627b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Tejas_Dherange"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://github.com/Tejas-Dherange"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://javascript11.hashnode.dev"><img src="https://img.shields.io/badge/Blog-%231572B6.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://tejas-portfolio.codeloom.software">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tejas-dherange-54a6a627b">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Tejas_Dherange">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/Tejas-Dherange">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://javascript11.hashnode.dev">
+    <img src="https://img.shields.io/badge/Blog-%231572B6.svg?&style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+[![Holopin Badges](https://holopin.me/tejasdherange)](https://holopin.io/@tejasdherange)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tejas-Dherange/Tejas-Dherange/output/snake.svg" alt="Snake animation" />
 </p>
 
----
-
-<h3 align="center">⭐ Thanks for visiting! Let's build something impactful together.</h3>
+<h3 align="center">Thanks for visiting. Let’s build scalable systems together.</h3>
