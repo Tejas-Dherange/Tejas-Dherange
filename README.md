@@ -9,7 +9,7 @@
 ## About Me  
 
 - B.Tech in Computer Engineering (2023–2027)  
-  **BRACT’s Vishwakarma Institute of Information Technology, Pune** | CGPA: **8.77**
+  **BRACT’s Vishwakarma Institute of Information Technology, Pune** | CGPA: **8.9**
 - Interested in building **scalable backend systems** and **AI-powered web applications**
 - Hands-on experience with **Next.js, React, Node.js, Express, REST APIs**
 - Worked with **LangChain.js, RAG pipelines, Qdrant, Gemini, Agent SDK**
@@ -17,6 +17,7 @@
 - Solved **300+ DSA problems** on LeetCode  
   **Max Rating:** 1541
 - **Runner-Up – Tech Hustlers Hackathon 2025**  
+- **Runner-Up – IT Symposium Hackathon 2025**  
   Built an AI-powered DSA Discord Bot using Agent SDK
 - I focus on **designing systems and shipping reliable products**
 
@@ -55,7 +56,7 @@
 ## Projects  
 
 ### Codeloom  
-https://www.codeloom.software  
+www.codeloomhq.me  
 
 - Pattern-driven DSA and live contest platform
 - Built a rate-limited code execution pipeline using **Judge0 + Redis (BullMQ)**
@@ -76,7 +77,7 @@ https://github.com/Tejas-Dherange/Agri_Connect
 ---
 
 ### VibeThumb  
-https://vibethumb.codeloom.software  
+https://vibethumb.codeloomhq.me  
 
 - AI-powered thumbnail generation from text and image prompts
 - Integrated Gemini and Nano Banana for creative workflows
